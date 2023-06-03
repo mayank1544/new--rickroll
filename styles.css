@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background: linear-gradient(white,white);
+}
+
+h1{
+    margin: 150px;
+    text-align: center;
+    font: italic;
+    color: #696969;
+}
+.dm{
+    display: flex;
+    align-items: center;
+    margin: 30px auto 0 auto;
+    
+}
